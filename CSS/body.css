@@ -1,0 +1,9 @@
+body {
+  background: var(--gray);
+  font-family: var(--font-one);
+  font-family: 'Darker Grotesque', sans-serif;
+ } 
+
+ .container:hover {
+  color: white;
+}
